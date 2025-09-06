@@ -1,4 +1,4 @@
-### 🤖 PIV - Computer Vision Projects
+### Computer Vision Projects
 
 This repository contains two projects developed for the **Image and Vision Processing (PIV)** course at **ISEL**. Both projects are built with **Python** and **OpenCV**, and demonstrate practical applications of computer vision.
 
