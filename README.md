@@ -24,4 +24,4 @@ A real-time system that estimates and classifies hand motions from a video feed 
 * **Tech Stack**:
     * **Python**
     * **OpenCV** for real-time video processing
-    * **Pygame/Blender/Unity** for graphical animation
+    * **Pygame** for graphical animation
